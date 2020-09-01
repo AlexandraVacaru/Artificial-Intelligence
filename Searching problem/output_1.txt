@@ -1,0 +1,10 @@
+Nu exista drum de la nodul de start la nodul scop.
+Euristica 1
+Calculatorul a "gandit" timp de 2 milisecunde.
+
+Euristica 2
+Calculatorul a "gandit" timp de 3 milisecunde.
+
+Euristica 3
+Calculatorul a "gandit" timp de 2 milisecunde.
+Nu exista drum de la nodul de start la nodul scop.Nu exista drum de la nodul de start la nodul scop.

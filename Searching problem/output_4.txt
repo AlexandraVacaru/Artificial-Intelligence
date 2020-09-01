@@ -1,0 +1,11 @@
+ionel >  alina v diana v costin v simona v razvan v andrei >>  oana ^  radu >  patricia v victor v nicoleta >>  maria >  gabi ^  dorel ^  elena <  gigel ^  tamara >  dragos
+
+Euristica 1
+Calculatorul a "gandit" timp de 2 milisecunde.
+
+Euristica 2
+Calculatorul a "gandit" timp de 2 milisecunde.
+
+Euristica 3
+Calculatorul a "gandit" timp de 1 milisecunde.
+ionel >  alina v diana v costin v simona v razvan v andrei >>  oana ^  radu >  patricia v victor v nicoleta >>  maria >  gabi ^  dorel ^  elena <  gigel ^  tamara >  dragosionel >  alina v diana v costin v simona v razvan v andrei >>  oana ^  radu >  patricia v victor v nicoleta >>  maria >  gabi ^  dorel ^  elena <  gigel ^  tamara >  dragos
